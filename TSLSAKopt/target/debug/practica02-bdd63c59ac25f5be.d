@@ -1,0 +1,1 @@
+/home/pedro/semestre1_2017/conhecemento/practicas/heuristicas/practica02/target/debug/practica02-bdd63c59ac25f5be: /home/pedro/semestre1_2017/conhecemento/practicas/heuristicas/practica02/src/triangular.rs /home/pedro/semestre1_2017/conhecemento/practicas/heuristicas/practica02/src/main.rs

@@ -1,0 +1,1 @@
+/home/pedro/semestre1_2017/conhecemento/practicas/heuristicas/practica02/target/release/practica02: /home/pedro/semestre1_2017/conhecemento/practicas/heuristicas/practica02/src/main.rs /home/pedro/semestre1_2017/conhecemento/practicas/heuristicas/practica02/src/triangular.rs /home/pedro/semestre1_2017/conhecemento/practicas/heuristicas/practica02/src/random_generator.rs

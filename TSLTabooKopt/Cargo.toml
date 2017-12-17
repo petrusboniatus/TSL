@@ -1,0 +1,11 @@
+[package]
+name = "practica02"
+version = "0.1.0"
+authors = ["senhor mayor <senhor@mayor.es>"]
+
+[dependencies]
+rand = "0.3"
+ordered-float = "0.5.0"
+linked_hash_set = "0.1.0"
+rayon = "0.9"
+time = "0.1"

@@ -1,0 +1,7 @@
+[package]
+name = "practica01"
+version = "0.1.0"
+authors = ["senhor mayor <senhor@mayor.es>"]
+
+[dependencies]
+rand = "0.3"
